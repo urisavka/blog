@@ -1,15 +1,16 @@
 ---
-title: Революціонери, гречкосії, бізнесмени і меланхоліки. В чому різниця?
+title: "Революціонери, гречкосії, бізнесмени і меланхоліки. В чому різниця?"
 author: Yurii Savka
 layout: post
-date: 2015-11-09
-url: /human-types/
-dsq_thread_id:
+date: {}
+url: "/human-types/"
+dsq_thread_id: 
   - 4302625407
-categories:
+categories: 
   - думки
-
+published: true
 ---
+
 <div style="text-align: justify;">
   <a href="/dfdfdfdfdfdfdf"></a><br /> Уявіть собі, що в один день Фонд Біла Гейтса зв&#8217;язується з вами по імейлу і чистим американським (не нігерійським) акцентом розповідає про те, що вони, мовляв, спостерігають за вами якийсь час і вирішили, що ви особливий і робите все правильно, і тому ваше ім&#8217;я і фото розмістять на своєму сайті в розділі &#8220;кращі люди планети&#8221;, ну і заодно дадуть карточку якою можна платити, скажем, за їжу в ресторанах. Не дуже багато, але не так вже й мало. Приємна несподіванка, чи не так?</p> 
   
@@ -46,7 +47,7 @@ categories:
   </p>
   
   <p>
-    <img class="aligncenter" src="http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000256/190741_3056034.jpg" alt="" width="290" height="351" />
+    <img class="aligncenter" src="http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000256/190741_3056034.jpg" alt="" />
   </p>
   
   <p>
@@ -58,7 +59,7 @@ categories:
   </p>
   
   <p>
-    <img class="aligncenter" src="http://extremal.by/upload/medialibrary/bd1/bd14da242f26bdc98dae789125cb07c1.jpg" alt="" width="323" height="202" />
+    <img class="aligncenter" src="http://extremal.by/upload/medialibrary/bd1/bd14da242f26bdc98dae789125cb07c1.jpg" alt=""  />
   </p>
   
   <p>
@@ -70,7 +71,7 @@ categories:
   </p>
   
   <p>
-    У цих двох категорій відповідь буде &#8220;ситуація не змінилася&#8221;, хоч визначити до якої належите саме ви не так то й складно <img src="http://urisavka.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+    У цих двох категорій відповідь буде &#8220;ситуація не змінилася&#8221;, хоч визначити до якої належите саме ви не так то й складно :)
   </p>
   
   <p>
@@ -78,7 +79,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://urisavka.com/wp-content/uploads/2015/11/11242020_1578696422397040_1066461494_n.jpg"><img class="size-medium wp-image-1588 aligncenter" src="http://urisavka.com/wp-content/uploads/2015/11/11242020_1578696422397040_1066461494_n-300x300.jpg" alt="11242020_1578696422397040_1066461494_n" width="300" height="300" /></a>
+  ![11242020_1578696422397040_1066461494_n.jpg]({{site.baseurl}}/content/post/11242020_1578696422397040_1066461494_n.jpg)
   </p>
   
   <p>
@@ -98,7 +99,7 @@ categories:
   </p>
   
   <p>
-    <img class="aligncenter" src="http://www.redov.ru/kulturologija/100_velikih_kartin_s_reprodukcijami/_73.jpg" alt="" width="222" height="288" />
+    <img class="aligncenter" src="http://www.redov.ru/kulturologija/100_velikih_kartin_s_reprodukcijami/_73.jpg" alt="" />
   </p>
   
   <p>
@@ -124,30 +125,4 @@ categories:
   <p>
     Щасти!
   </p>
-</div>
-
-<div data-animation="no-animation" data-icons-animation="no-animation" data-overlay="" data-change-size="" data-button-size="1" style="font-size:1em;display:none;" class="supsystic-social-sharing supsystic-social-sharing-package-flat supsystic-social-sharing-content">
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter facebook" target="_blank" title="Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Furisavka.com%2Fhuman-types%2F" data-nid="1" data-pid="1" data-post-id="1581" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-facebook"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter"></span>
-  </div></a>
-  
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter twitter" target="_blank" title="Twitter" href="https://twitter.com/share?url=http%3A%2F%2Furisavka.com%2Fhuman-types%2F&text=Революціонери, гречкосії, бізнесмени і меланхоліки. В чому різниця?" data-nid="2" data-pid="1" data-post-id="1581" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-twitter"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter"></span>
-  </div></a>
-  
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter vk" target="_blank" title="VKontakte" href="http://vk.com/share.php?url=http%3A%2F%2Furisavka.com%2Fhuman-types%2F" data-nid="4" data-pid="1" data-post-id="1581" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-vk"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter"></span>
-  </div></a>
-  
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter livejournal" target="_blank" title="Livejournal" href="http://www.livejournal.com/update.bml?subject=Революціонери, гречкосії, бізнесмени і меланхоліки. В чому різниця?&event=http%3A%2F%2Furisavka.com%2Fhuman-types%2F" data-nid="11" data-pid="1" data-post-id="1581" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-pencil"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter"></span>
-  </div></a>
 </div>
