@@ -6,6 +6,9 @@ os:
   - linux
 before_script:
   - git clone git://github.com/urisavka/blog.git blog
+  - cd public
+  - git clone git://github.com/urisavka/urisavka.github.io.git .
+  - cd ..
 script:
   - hugo -t hugo-cactus-theme
 after_success:
@@ -17,7 +20,7 @@ after_success:
   - git pull origin master
   - git remote rm origin
   - git remote add origin "https://$GH_TOKEN@github.com/urisavka/urisavka.github.io.git"
-  - git add --all
+  - git add -A .
   - git commit -m "rebuild pages at ${rev}"
   - git push origin master
 install:
