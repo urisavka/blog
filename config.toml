@@ -2,3 +2,6 @@ baseurl = "http://urisavka.github.io/blog"
 languageCode = "en-us"
 title = "My Blog"
 canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
