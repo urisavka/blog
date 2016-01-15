@@ -25,3 +25,6 @@ after_success:
   - git push origin master
 install:
   - go get -v -u github.com/spf13/hugo
+env:
+  global:
+    secure: "aTwc77/B9Y8gm4SML4lc+eyCruh4aJmymN8EHP+f7wa/+ylcf6EOELsWGd08ubZRWUmw0hiRNKzHsccIeXr/GCneYrdb5NZu+1Eo8dtqjLjH4f1x/2d3iMjNYIj4aLbGlXqN4sSbLlIHbf+gymxK3XQ5hi8IxEWAcmY08bcqa0wfqE8/L7kj+yDOZEnqzFIsi3IH8KQrxt5DAxgiy4EbQb3/OM5RyH1WJ1JPFto6kjEimZyFTsN6uJ8eCtu2CbMXmE2Z5xgACjanV+VcnTOmZekNN+tpmCH+NAAiVoP5UJqW+9dOGZAB52/cc62aUnYutIVQCDyoG3P9EzEyFzF1Cs3eOESDqiA+8b0sBJO5DUw36+i6ebZdfFhi+0JbMXNn15N9rHGvy/5V5WJQGH0djlIFOO51KHUqECF5shIqwPAI1Y1G1TNhT3LsdwP/KvQjO0rf9+AThDlPUhMPncuFF1O7uQWeqvMjvx1VdSjrcOSV+tdWv7nUEe7GxP151wkWO66mX5rbqGfcuGe/67IURvy1gwed6V8BQScqbQxzujd6uCcTbUloRmYzT8EZX/9d+wse40LueM30gIcdoOl9eCijzkUu6Lu8Qq/54Qyz9qjXTvBA75vJyI0A0+i58eOewq0kka8a95qUWQeLtszkKVF9ZrS3VuwkI7Vh7KpIRBg="
