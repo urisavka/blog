@@ -1,15 +1,16 @@
 ---
-title: Війна проти стихії чи повернення до джерел?
+title: "Війна проти стихії чи повернення до джерел?"
 author: Yurii Savka
 layout: post
-date: 2015-09-12
-url: /war-against-nature/
-dsq_thread_id:
+date: {}
+url: "/war-against-nature/"
+dsq_thread_id: 
   - 4127938450
-categories:
+categories: 
   - думки
-
+published: true
 ---
+
 <div style="text-align: justify;">
   <p>
     Наткнувся недавно на старе <a href="http://bormor.livejournal.com/407608.html" target="_blank">оповідання</a> Бормора, в якому деміурги намагаються визначити різницю між «добром» і «злом». Критерій дається дуже простий:
@@ -113,29 +114,4 @@ categories:
     А далі буде видно…
   </p>
 </div>
-
-<div data-animation="no-animation" data-icons-animation="no-animation" data-overlay="" data-change-size="" data-button-size="1" style="font-size:1em;display:none;" class="supsystic-social-sharing supsystic-social-sharing-package-flat supsystic-social-sharing-content">
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter facebook" target="_blank" title="Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Furisavka.com%2Fwar-against-nature%2F" data-nid="1" data-pid="1" data-post-id="8" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-facebook"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter">1</span>
-  </div></a>
-  
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter twitter" target="_blank" title="Twitter" href="https://twitter.com/share?url=http%3A%2F%2Furisavka.com%2Fwar-against-nature%2F&text=Війна проти стихії чи повернення до джерел?" data-nid="2" data-pid="1" data-post-id="8" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-twitter"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter">1</span>
-  </div></a>
-  
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter vk" target="_blank" title="VKontakte" href="http://vk.com/share.php?url=http%3A%2F%2Furisavka.com%2Fwar-against-nature%2F" data-nid="4" data-pid="1" data-post-id="8" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-vk"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter">1</span>
-  </div></a>
-  
-  <a class="social-sharing-button sharer-flat sharer-flat-3 counter-standard without-counter livejournal" target="_blank" title="Livejournal" href="http://www.livejournal.com/update.bml?subject=Війна проти стихії чи повернення до джерел?&event=http%3A%2F%2Furisavka.com%2Fwar-against-nature%2F" data-nid="11" data-pid="1" data-post-id="8" data-url="http://urisavka.com/wp-admin/admin-ajax.php"><i class="fa fa-fw fa-pencil"></i>
-  
-  <div class="counter-wrap standard">
-    <span class="counter">1</span>
-  </div></a>
 </div>
