@@ -1,0 +1,4 @@
+baseurl = "http://urisavka.github.io/blog"
+languageCode = "en-us"
+title = "My Blog"
+canonifyurls = true
