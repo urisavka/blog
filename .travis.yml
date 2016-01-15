@@ -10,7 +10,7 @@ script:
   - cd blog
   - cd public
   - rm -rf *
-  - git clone git://github.com/urisavka/urisavka.github.io.git .
+  - git clone https://github.com/urisavka/urisavka.github.io.git .
   - cd ..
   - hugo -t hugo-cactus-theme
 after_success:
