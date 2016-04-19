@@ -2,7 +2,7 @@
 title: "Війна проти стихії чи повернення до джерел?"
 author: Yurii Savka
 layout: post
-date: 12.09.2015
+date: 2015-09-12
 url: "/war-against-nature/"
 dsq_thread_id: 
   - 4127938450
