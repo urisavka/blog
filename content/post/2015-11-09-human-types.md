@@ -2,7 +2,7 @@
 title: "Революціонери, гречкосії, бізнесмени і меланхоліки. В чому різниця?"
 author: Yurii Savka
 layout: post
-date: {}
+date: {2015-11-09}
 url: "/human-types/"
 dsq_thread_id: 
   - 4302625407
