@@ -7,7 +7,7 @@ os:
 before_script:
   - git clone git://github.com/urisavka/blog.git blog
   - cd public
-  - git clone git://github.com/urisavka/blog.git .
+  - git clone https://github.com/urisavka/blog.git .
   - git checkout gh-pages
   - cd ..
 script:
